@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Hello, World!
 
-You can use the [editor on GitHub](https://github.com/skhan59/skhan59.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a highly motivated student at Loyola University Chicago studying Computer Science with an emphasis on Cybersecurity. Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Cybersecurity, Human-Computer Interaction, Healthcare, and Start-Ups.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
