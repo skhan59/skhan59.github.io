@@ -74,19 +74,5 @@ For my final project in COMP 348: Network Security, I developed a proposal for i
       style="width:10%;">
       </a>
     </div>
-    
-    
-### Network Security Architecture
-For my final project in COMP 348: Network Security, I developed a proposal for improvements a company could make in their network security after they were recently hacked. I proposed the implementation of perimeter and host firewalls, a variety of sensors (IDS, HIDS, WIPS), a VPN, and IP segmentation to keep the network more secure. I also proposed the company use multifactor authentication and email encryption to keep individual machines secure.
-
-<div align="center">
-      <a href="https://drive.google.com/drive/folders/1-4eYF0rwMJVEDMDDiE1CcSeo0vGkXqNW">
-     <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/networksecuritydiagram.png" 
-      alt="DNS over HTTPS Findings" 
-      style="width:10%;">
-      </a>
-    </div>
-  
-  
   
   
