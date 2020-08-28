@@ -13,7 +13,7 @@ We used a variety of project management methodologies such as scrum, risk analys
       <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
      <img src="https://afdc.energy.gov/sp/assets/car_pages/electric-c6dddcfed973673ca0cc28eddfcb3e385d56b94e8c33d7120aa3f125609e8249.jpg"=1x 
       alt="Project Management Case Study" 
-      style="size:1%;">
+      style="size:100%;">
       </a>
     </div>
     
@@ -25,7 +25,7 @@ This project was done during my COMP 388: Advanced Topics in Cybersecurity class
       <a href="https://docs.google.com/document/d/1T7yDm1QkdnHECT784mYLPQl032ABB23hBsfJATwA0tg/edit?usp=sharing">
      <img src="https://www.radioworld.com/.image/c_fit,h_600,w_600/MTUzNzIxNzUzNzgwNTYxNTY2/image-placeholder-title.png" 
       alt="DNS over HTTPS Findings" 
-      style="width:10%;">
+      style="width:100%;">
       </a>
     </div>
     
@@ -36,7 +36,7 @@ An Android App I coded using Android Studio + Java. It's a true or false quiz im
       <a href="https://github.com/skhan59/Covid19QuizzApp">
      <img src="https://github.com/skhan59/Covid19QuizzApp/blob/master/screenshot.png" 
       alt="DNS over HTTPS Findings" 
-      style="width:10%;">
+      style="width:100%;">
       </a>
     </div>
     
@@ -48,7 +48,7 @@ Wrote up an official Forensics Report to summarize the actions taken to discover
       <a href="https://drive.google.com/file/d/1EF7cv2gl_D_bwnIZi7LHzALkWJvkqMAw/view">
      <img src="https://files.passware.com/images/pictures/PNL/pnl-103-encase.png" 
       alt="DNS over HTTPS Findings" 
-      style="width:10%;">
+      style="width:100%;">
       </a>
     </div>
    
@@ -59,7 +59,7 @@ This is a one player game I made using Java. The program asks the user what leve
       <a href="https://github.com/skhan59/Battleship">
      <img src="https://github.com/skhan59/Battleship/blob/master/Screen%20Shot%202020-08-27%20at%207.02.26%20PM.png" 
       alt="DNS over HTTPS Findings" 
-      style="width:10%;">
+      style="width:100%;">
       </a>
     </div>
     
@@ -71,7 +71,7 @@ For my final project in COMP 348: Network Security, I developed a proposal for i
       <a href="https://drive.google.com/drive/folders/1-4eYF0rwMJVEDMDDiE1CcSeo0vGkXqNW">
      <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/networksecuritydiagram.png" 
       alt="DNS over HTTPS Findings" 
-      style="width:10%;">
+      style="width:100%;">
       </a>
     </div>
   
