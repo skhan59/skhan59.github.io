@@ -16,7 +16,7 @@ Currently, I am privileged to be working as a Research Assist and under Dr. Chan
 ### [LinkedIn](https://www.linkedin.com/in/saad-khan-508421176/) , Email: Skhan59@luc.edu , Location: Chicago, IL
 
 ### Skills:
-Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Management ■ Technical Documentation ■ Persuasive Writing ■	Microsoft Excel ■	Final Cut Pro X ■	Photoshop
+Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Management ■ Technical Documentation ■ Persuasive Writing ■	Microsoft Excel ■	Final Cut Pro X ■	Photoshop ■	Microsoft Project
 
 
 ### Education: 
