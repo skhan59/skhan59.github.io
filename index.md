@@ -1,4 +1,6 @@
-### [Home](https://www.skhan59.github.io/) , [Selected Projects](https://www.skhan59.github.io/Projects) , [Ongoing Projects](https://www.skhan59.github.io/)
+### Links
+
+[Home](https://www.skhan59.github.io/) , [Selected Projects](https://skhan59.github.io/projects) , [Ongoing Projects](https://www.skhan59.github.io/)
 
 
 ## Hello, World!
@@ -11,7 +13,9 @@ I am a highly motivated student on the Cybersecurity track at Loyola University 
 
 <center> <h1> 
 
-### [LinkedIn](https://www.linkedin.com/in/saad-khan-508421176/) , Email: Skhan59@luc.edu , Location: Chicago, IL </h1> </center>
+### INFO:
+
+[LinkedIn](https://www.linkedin.com/in/saad-khan-508421176/) , Email: Skhan59@luc.edu , Location: Chicago, IL </h1> </center>
 
 ### Skills:
 
