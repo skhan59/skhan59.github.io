@@ -6,7 +6,7 @@
 
 I am a highly motivated student on the Cybersecurity track at Loyola University Chicago's Department of Computer Science . Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Cybersecurity, Human-Computer Interaction, Healthcare, and Start-Ups.
 
-Currently, I am privileged to be working as a Research Assist and under Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the fallbacks of 'DNS over HTTPS.'  I’ve also held positions as a Summer Extern at AT&T, a Technology Fellow at Nu School, and a Technology Assistant at Loyola University Chicago's School of Law. 
+Currently, I am privileged to be working as a Research Assist and under Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the fallbacks of 'DNS over HTTPS.'  I’ve also held positions as a Summer Extern at AT&T, a Technology Fellow at Nu School, and a Technology Assistant at Loyola University Chicago's School of Law. More detailed explanations of my work history can be found on my LinkedIn profile linked below.
 
 
 <p align="center">
@@ -45,3 +45,14 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 ■TG Hack: 2020: Top 27% Team Game
   Competed in a team in the following modules of cybersecurity: Code Exploits (Python, C), Cryptography, Network Traffic
   Analysis, Password Cracking, and Log File Analysis
+  
+  
+<pre><code>
+______         _           _      ______     ___  ____  ____  ____      _      ____  _____  
+.' ____ \     / \         / \    |_   _ `.  |_  ||_  _||_   ||   _|    / \    |_   \|_   _| 
+| (___ \_|   / _ \       / _ \     | | `. \   | |_/ /    | |__| |     / _ \     |   \ | |   
+ _.____`.   / ___ \     / ___ \    | |  | |   |  __'.    |  __  |    / ___ \    | |\ \| |   
+| \____) |_/ /   \ \_ _/ /   \ \_ _| |_.' /  _| |  \ \_ _| |  | |_ _/ /   \ \_ _| |_\   |_  
+ \______.|____| |____|____| |____|______.'  |____||____|____||____|____| |____|_____|\____| 
+                                                                                            
+</code></pre>
