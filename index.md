@@ -1,6 +1,6 @@
 ### Links
 
-[Home](https://www.skhan59.github.io/) , [Selected Projects](https://skhan59.github.io/projects) , [Ongoing Projects](https://www.skhan59.github.io/)
+[Selected Projects](https://skhan59.github.io/projects) , [Ongoing Projects](https://www.skhan59.github.io/)
 
 
 ## Hello, World!
@@ -11,13 +11,9 @@ I am a highly motivated student on the Cybersecurity track at Loyola University 
   <img width="200" height="200" src="https://avatars2.githubusercontent.com/u/45646815?s=400&u=a7211a3e1383ae0a9e09127f4cb8d03fbe51f8db&v=4">
 </p>
 
-<center> <h1> 
 
-### INFO:
-
-[LinkedIn](https://www.linkedin.com/in/saad-khan-508421176/) , Email: Skhan59@luc.edu , Location: Chicago, IL </h1> </center>
+### [LinkedIn](https://www.linkedin.com/in/saad-khan-508421176/) , Email: Skhan59@luc.edu , Location: Chicago, IL
 
 ### Skills:
-
 Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Management ■ Technical Documentation ■ Persuasive Writing ■	Microsoft Excel ■	Final Cut Pro X ■	Photoshop
 
