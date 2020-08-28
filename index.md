@@ -30,7 +30,7 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 ### Achievements: 
 
 ■ Dean's List: 2018-Present 
-  Awarded to students who recieve a 3.50 GPA each semester
+  Awarded to students who recieve a 3.50 GPA or above each semester
 
 ■ Dean's Merit Scholarship Recipient
   Awarded based off of consistent academic performance
