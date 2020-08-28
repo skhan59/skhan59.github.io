@@ -1,7 +1,22 @@
 ### [Home](https://saadkhancodes.github.io/saadkhancodes/)
 
-## Completed Projects
-#### Below are a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, or Project Management. Feel free to click on thumbnails to see the full project. Ongoing projects, which currently don't have any end date insight can be found on the "On Going Projects" Tab.
+## Selected Projects
+#### Below are a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, or Project Management. Feel free to click on thumbnails to see the full project.
+
+### Wright
+Wright, the right way to learn how to write, is an ed-tech startup concept I pitched to Y Combinator backed entrepreneurs during my time as a Technology Fellow at Nu School. Wright is a concept in which users are provided with weekly topics based on current events. Users can then write in favor or against the current events, while others can thumbs up or thumbs down writing pieces based on how well they back up the arguments. Wright serves to both improve people's writing skills through community peer reviews, as well as help people see other perspectives in a controlled, calm enviroment.
+
+To show Wright in action, I used Adobe XD to create a minimum viable product of how the website would look. I also used Google forms and conducted market research amongst college students (our target market) on school subreddits to see how different majors feel about potentially using a platform that can help them become better writers.
+
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=5pmxNIHy9xQ">
+     <img src="https://i.imgur.com/D9AILx8.png" 
+      alt="Wright" 
+      style="size:900%;">
+      </a>
+    </div>
+
 
 ### Project Management: Toyota Electric Vehicle Prototype Case Study
 During my COMP 377: IT Project Management course, my group and I managed a semester long project management cast study. 
@@ -11,7 +26,7 @@ We used a variety of project management methodologies such as scrum, risk analys
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
-     <img src="https://afdc.energy.gov/sp/assets/car_pages/electric-c6dddcfed973673ca0cc28eddfcb3e385d56b94e8c33d7120aa3f125609e8249.jpg"=1x 
+     <img src="https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200.png" 
       alt="Project Management Case Study" 
       style="size:900%;">
       </a>
@@ -30,12 +45,12 @@ This project was done during my COMP 388: Advanced Topics in Cybersecurity class
     </div>
     
 ### COVID: 19 Questions
-An Android App I coded using Android Studio + Java. It's a true or false quiz implementing Object-Oriented Programming. The app asks the user 19 questions about the Covid-19 Pandemic, and tests the users ability to differentiate between the truth and widespread fake news.
+An Android App I coded using Android Studio + Java. It's a true or false quiz implementing Object-Oriented Programming, with a Graphical User Interface (GUI.) The app asks the user 19 questions about the Covid-19 Pandemic, and tests the users ability to differentiate between the truth and widespread fake news.
 
 <div align="center">
       <a href="https://github.com/skhan59/Covid19QuizzApp">
-     <img src="https://github.com/skhan59/Covid19QuizzApp/blob/master/screenshot.png" 
-      alt="DNS over HTTPS Findings" 
+     <img src="https://raw.githubusercontent.com/skhan59/Covid19QuizzApp/master/screenshot.png" 
+      alt="COVID: 19 questions" 
       style="width:900%;">
       </a>
     </div>
@@ -57,7 +72,7 @@ This is a one player game I made using Java. The program asks the user what leve
 
 <div align="center">
       <a href="https://github.com/skhan59/Battleship">
-     <img src="https://github.com/skhan59/Battleship/blob/master/Screen%20Shot%202020-08-27%20at%207.02.26%20PM.png" 
+     <img src="https://raw.githubusercontent.com/skhan59/Battleship/master/Screen%20Shot%202020-08-27%20at%207.02.26%20PM.png" 
       alt="DNS over HTTPS Findings" 
       style="width:900%;">
       </a>
