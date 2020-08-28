@@ -1,6 +1,5 @@
-### [Home](https://saadkhancodes.github.io/saadkhancodes/)
-
 ## Selected Projects
+
 #### Below are a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, or Project Management. Feel free to click on thumbnails to see the full project.
 
 ### Wright
