@@ -1,4 +1,5 @@
-[Selected Projects](https://skhan59.github.io/projects)
+[Selected Projects](https://skhan59.github.io/projects) , [Work Experience](https://skhan59.github.io/experience)
+
 
 
 # Hello, World!
