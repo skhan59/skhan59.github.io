@@ -23,7 +23,7 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 
 - B.S in CS: Cybersecurity, Minor in Philosophy
 
-- Inolved In: Computer Science Club, Cybersecurity Club, Pre-Law Society, Muslim Student Association, Philosophy Club,
+- Inolved In: Computer Science Club, Cybersecurity Club, Pre-Law Society, Muslim Student Association, Philosophy Club
 
 ### Achievements: 
 
@@ -39,6 +39,7 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 
 - TG Hack: 2020: Top 27% Team Game
   *Competed in a team in the following modules of cybersecurity: Code Exploits (Python, C), Cryptography, Network Traffic Analysis, Password Cracking, and Log File Analysis
+  
 
 <pre><code>
 ______         _           _      ______     ___  ____  ____  ____      _      ____  _____  
@@ -49,3 +50,9 @@ ______         _           _      ______     ___  ____  ____  ____      _      _
  \______.|____| |____|____| |____|______.'  |____||____|____||____|____| |____|_____|\____| 
                                                                                             
 </code></pre>
+
+
+
+### Hobbies and Interests: 
+
+In my free time, I enjoy video editing with Final Cut Pro, learning about Universal Basic Income, photography, and overanalyzing MCU and DCEU movies. For the latter, I hope to start a podcast on the subject by Winter 2021!
