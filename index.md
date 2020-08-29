@@ -45,14 +45,3 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 ■TG Hack: 2020: Top 27% Team Game
   Competed in a team in the following modules of cybersecurity: Code Exploits (Python, C), Cryptography, Network Traffic
   Analysis, Password Cracking, and Log File Analysis
-  
-  
-<pre><code>
-______         _           _      ______     ___  ____  ____  ____      _      ____  _____  
-.' ____ \     / \         / \    |_   _ `.  |_  ||_  _||_   ||   _|    / \    |_   \|_   _| 
-| (___ \_|   / _ \       / _ \     | | `. \   | |_/ /    | |__| |     / _ \     |   \ | |   
- _.____`.   / ___ \     / ___ \    | |  | |   |  __'.    |  __  |    / ___ \    | |\ \| |   
-| \____) |_/ /   \ \_ _/ /   \ \_ _| |_.' /  _| |  \ \_ _| |  | |_ _/ /   \ \_ _| |_\   |_  
- \______.|____| |____|____| |____|______.'  |____||____|____||____|____| |____|_____|\____| 
-                                                                                            
-</code></pre>
