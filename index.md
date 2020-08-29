@@ -1,7 +1,5 @@
 ## [Selected Projects](https://skhan59.github.io/projects)
 
-<body bgcolor="#336655">
-
 # Hello, World!
 
 I am a highly motivated student on the Cybersecurity track at Loyola University Chicago's Department of Computer Science . Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Cybersecurity, Human-Computer Interaction, Healthcare, and Start-Ups.
