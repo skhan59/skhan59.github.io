@@ -55,6 +55,17 @@ An Android App I coded using Android Studio + Java. It's a true or false quiz im
       </a>
     </div>
     
+### Android Stopwatch
+Worked in a team of five students to implement a timer as an Android application with event-driven/asynchronous program execution and user-triggered input events. Graphed a state machine model to plan out how the different classes would work work off of one another.
+
+<div align="center">
+      <a href="https://github.com/skhan59/AndroidTimer">
+     <img src="https://i.ytimg.com/vi/3P8F7Pk2dtY/maxresdefault.jpg" 
+      alt="Android Stopwatch" 
+      style="width:900%;">
+      </a>
+    </div>
+    
 ### Computer Forensics Analysis & Report
 Wrote up an official Forensics Report to summarize the actions taken to discover the malware infecting a virtual machine, and how to prevent it from spreading to other computers within the machine's network. I used software such as EnCase versions 6 and 7, Active Disk Editor, and Registry Explorer to analyze the emails being sent to/from this machine, see if any external devices were attached, what websites the user visited, and what antivirus software was running.
 
@@ -90,4 +101,19 @@ For my final project in COMP 348: Network Security, I developed a proposal for i
       </a>
     </div>
   
+### Hack the Box Ethical Hacking Exercises
+descriptionSuccessfully hacked into the virtual machine provided by the cybersecurity company, Hack the Box. I used resources such as Kali Linux and Open-Source Intelligence to gain root-level access to the machine.
+
+Tools within Kali Linux:
+JohntheRipper - Password Cracking
+Dirbuster - Brute Force on webservers
+PHPMyAdmin - Access hidden databases within the virtual machine
+
+<div align="center">
+      <a href="https://www.hackthebox.eu/login">
+     <img src="https://josh.kerr.dev/content/images/2020/06/Screen-Shot-2020-06-20-at-3.08.12-PM.png" 
+      alt="DNS over HTTPS Findings" 
+      style="width:900%;">
+      </a>
+    </div>
   
