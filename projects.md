@@ -26,7 +26,7 @@ analyze the simulated budget, and track our progress relative to our deadlines.
 
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+      <a href="https://www.youtube.com/watch?v=31JkCZ1E3zQ&ab_channel=SaadKhan">
      <img src="https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200.png" 
       alt="Project Management Case Study" 
       style="size:900%;">
