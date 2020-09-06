@@ -4,7 +4,7 @@
 
 I am a highly motivated student on the Cybersecurity track at Loyola University Chicago's Department of Computer Science . Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Internet Privacy, Human-Computer Interaction, Health-Technology, Antitrust, and Start-Ups.
 
-Currently, I am privileged to be working as a Research Assistand under Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the potential fallbacks of 'DNS over HTTPS.'  I’ve also held positions as a Summer Extern at AT&T, a Technology Fellow at Nu School, and a Technology Assistant at Loyola University Chicago's School of Law. More detailed explanations of my work history can be found on my LinkedIn profile linked below.
+Currently, I am privileged to be working as a Research Assistant under Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the potential fallbacks of 'DNS over HTTPS.'  I’ve also held positions as a Summer Extern at AT&T, a Technology Fellow at Nu School, and a Technology Assistant at Loyola University Chicago's School of Law. More detailed explanations of my work history can be found on my LinkedIn profile linked below.
 
 
 <p align="center">
