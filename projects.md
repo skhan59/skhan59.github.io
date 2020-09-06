@@ -24,6 +24,7 @@ We used a variety of project management methodologies such as scrum, risk analys
 analyze the simulated budget, and track our progress relative to our deadlines.
 
 
+
 <div align="center">
       <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
      <img src="https://www.carlogos.org/car-logos/toyota-logo-2019-3700x1200.png" 
@@ -32,7 +33,34 @@ analyze the simulated budget, and track our progress relative to our deadlines.
       </a>
     </div>
     
-    
+### Let's Shoot
+Let's Shoot is a social media concept I've been developing. The premise is a networking app geared towards getting potential clients to meet with local photographers/filmmakers. I've been using Adobe XD and Photoshop to create mockups of how I wish for the app to look like. I'm also using Pycharm and Github to create a portfolio to showcase progress.
+
+<div align="center">
+      <a href="https://github.com/skhan59/Lets-Shoot">
+     <img src="https://i.imgur.com/qIT7izC.png" 
+      alt="Let's Shoot" 
+      style="size:900%;">
+      </a>
+    </div>
+
+### TRACEBACK:Hacking/Penetration Simulation
+Successfully hacked into the virtual machine provided by the cybersecurity company, Hack the Box. I used resources such as Kali Linux and Open-Source Intelligence to gain root-level access to the machine.
+
+Tools within Kali Linux:
+JohntheRipper - Password Cracking
+Dirbuster - Brute Force on webservers
+PHPMyAdmin - Access hidden databases within the virtual machine
+
+<div align="center">
+      <a href="https://www.hackthebox.eu/login">
+     <img src="https://josh.kerr.dev/content/images/2020/06/Screen-Shot-2020-06-20-at-3.08.12-PM.png" 
+      alt="DNS over HTTPS Findings" 
+      style="width:900%;">
+      </a>
+    </div>
+  
+
 ### Internet Privacy Lab: DNS over HTTPS
 This project was done during my COMP 388: Advanced Topics in Cybersecurity class. My goal was to examine the security, or lack thereof of DNS (Domain Name System) when it comes to internet browsing. I used Wireshark, a software that allows for internet data to be captured and analyzed, to examine if I can discover what websites people within the same network as me are visiting. I experimented on the desktop versions of Google Chrome, Apple Safari, and Mozilla Firefox.
 
@@ -100,20 +128,3 @@ For my final project in COMP 348: Network Security, I developed a proposal for i
       style="width:900%;">
       </a>
     </div>
-  
-### Hack the Box Ethical Hacking Exercises
-descriptionSuccessfully hacked into the virtual machine provided by the cybersecurity company, Hack the Box. I used resources such as Kali Linux and Open-Source Intelligence to gain root-level access to the machine.
-
-Tools within Kali Linux:
-JohntheRipper - Password Cracking
-Dirbuster - Brute Force on webservers
-PHPMyAdmin - Access hidden databases within the virtual machine
-
-<div align="center">
-      <a href="https://www.hackthebox.eu/login">
-     <img src="https://josh.kerr.dev/content/images/2020/06/Screen-Shot-2020-06-20-at-3.08.12-PM.png" 
-      alt="DNS over HTTPS Findings" 
-      style="width:900%;">
-      </a>
-    </div>
-  
