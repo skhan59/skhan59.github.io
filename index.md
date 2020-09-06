@@ -1,4 +1,4 @@
-## [Selected Projects](https://skhan59.github.io/projects)
+## [Selected Projects](https://skhan59.github.io/projects) , [Competitions](https://skhan59.github.io/competitions)
 
 # Hello, World!
 
