@@ -58,3 +58,31 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 ### Hobbies and Interests: 
 
 In my free time, I enjoy video editing with Final Cut Pro, learning about Universal Basic Income, photography, and overanalyzing MCU and DCEU movies. For the latter, I hope to start a podcast on the subject by Winter 2021!
+
+
+<pre><code>
+                      
+                   ,,,, 
+             ,;) .';;;;',
+ ;;,,_,-.-.,;;'_,|I\;;;/),,_
+  `';;/:|:);{ ;;;|| \;/ /;;;\__
+      L;/-';/ \;;\',/;\/;;;.') \
+      .:`''` - \;;'.__/;;;/  . _'-._ 
+    .'/   \     \;;;;;;/.'_7:.  '). \_
+  .''/     | '._ );}{;//.'    '-:  '.,L
+.'. /       \  ( |;;;/_/         \._./;\   _,
+ . /        |\ ( /;;/_/             ';;;\,;;_,
+. /         )__(/;;/_/                (;;'''''
+ /        _;:':;;;;:';-._             );
+/        /   \  `'`   --.'-._         \/
+       .'     '.  ,'         '-,
+      /    /   r--,..__       '.\
+    .'    '  .'        '--._     ]
+    (     :.(;>        _ .' '- ;/
+    |      /:;(    ,_.';(   __.'
+     '- -'"|;:/    (;;;;-'--'
+           |;/      ;;(
+           ''      /;;|
+                   \;;|
+                    \/
+</code></pre>
