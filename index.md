@@ -10,7 +10,7 @@ I’ve also held positions as a Summer Extern at AT&T, a Technology Fellow at Nu
 
 
 <p align="center">
-  <img width="200" height="200" src="https://avatars2.githubusercontent.com/u/45646815?s=400&u=a7211a3e1383ae0a9e09127f4cb8d03fbe51f8db&v=4">
+  <img width="450" height="450" src="https://avatars2.githubusercontent.com/u/45646815?s=400&u=a7211a3e1383ae0a9e09127f4cb8d03fbe51f8db&v=4">
 </p>
 
 ### [LinkedIn](https://www.linkedin.com/in/saad-khan-508421176/) , Email: Skhan59@luc.edu , Location: Chicago, IL
