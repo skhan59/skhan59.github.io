@@ -24,7 +24,7 @@ Password Cracking, Cryptography, Penetration Testing, Web Application Securitty,
 
 
 <div align="center">
-      <a href="TGHack.no">
+      <a href="https://tghack.no/">
      <img src="https://ctftime.org/media/events/sort_vertikal_600px_1.png" 
       alt="TGHack2020" 
       style="size:900%;">
@@ -40,7 +40,7 @@ I've also obtained root-level access to the virtual computer known as Traceback,
 
 
 <div align="center">
-      <a href="hackthebox.eu">
+      <a href="https://www.hackthebox.eu/">
      <img src="https://miro.medium.com/max/3186/1*ZNvI3P8tXMgcSmmNXqa0Ig.png" 
       alt="HTB" 
       style="size:900%;">
