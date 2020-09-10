@@ -4,7 +4,7 @@
 
 I am a highly motivated student on the Cybersecurity track at Loyola University Chicago's Department of Computer Science . Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Internet Privacy, Human-Computer Interaction, Health-Technology, Antitrust, and Start-Ups.
 
-Currently, I am conducting research with Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the potential fallbacks of 'DNS over HTTPS.' On weekends, I dedicate ~10 hours helping the Broadstreet+Covid-19 Data Projects. There, I am an Emergency Data Relief Intern where I analyze log files filled with COVID-19 data to create infographs for the public to use.
+Currently, I am conducting research with Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the potential fallbacks of 'DNS over HTTPS.'
 
 I’ve also held positions as a Summer Extern at AT&T, a Technology Fellow at Nu School, and a Technology Assistant at Loyola University Chicago's School of Law. More detailed explanations of my work history can be found on my LinkedIn profile linked below.
 
@@ -42,19 +42,6 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 - TG Hack: 2020: Top 27% Team Game
   *Competed in a team in the following modules of cybersecurity: Code Exploits (Python, C), Cryptography, Network Traffic Analysis, Password Cracking, and Log File Analysis
   
-
-<pre><code>
- _____                 _   _   ___                 
-/  ___|               | | | | / / |                
-\ `--.  __ _  __ _  __| | | |/ /| |__   __ _ _ __  
- `--. \/ _` |/ _` |/ _` | |    \| '_ \ / _` | '_ \ 
-/\__/ / (_| | (_| | (_| | | |\  \ | | | (_| | | | |
-\____/ \__,_|\__,_|\__,_| \_| \_/_| |_|\__,_|_| |_|
-                                                                                                                                               
-</code></pre>
-
-
-
 ### Hobbies and Interests: 
 
 In my free time, I enjoy video editing with Final Cut Pro, learning about Universal Basic Income, photography, and overanalyzing MCU and DCEU movies. For the latter, I hope to start a podcast on the subject by Winter 2021!
