@@ -1,6 +1,6 @@
 ## Selected Projects
 
-#### Below are a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, or Project Management. Feel free to click on thumbnails to see the full project.
+#### Below is a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, or Project Management. Feel free to click on thumbnails to see the full project.
 
 ### Wright
 Wright, the right way to learn how to write, is an ed-tech startup concept I pitched to Y Combinator backed entrepreneurs during my time as a Technology Fellow at Nu School. Wright is a concept in which users are provided with weekly topics based on current events. Users can then write in favor or against the current events, while others can thumbs up or thumbs down writing pieces based on how well they back up the arguments. Wright serves to both improve people's writing skills through community peer reviews, as well as help people see other perspectives in a controlled, calm enviroment.
