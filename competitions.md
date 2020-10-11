@@ -31,8 +31,7 @@ Password Cracking, Cryptography, Penetration Testing, Web Application Securitty,
       </a>
     </div>
     
- ### Hack the Box: Penetration Testing and Capture the Flags
-
+### Hack the Box: Penetration Testing and Capture the Flags
 As of March 2020, I've been actively competing to obtain a spot on Hack the Box's Penetration Testing and Capture the Flag leaderboards. The competiton is only
 accessible for competitors who are successfully able to hack their way through the registration page. By far the most difficult competition I've competed in,
 so far I have successfully been able to complete challenges in Reverse Engineering, Cyrptography, Steganography, Computer Forensics, and Open Source Intelligence.
