@@ -73,3 +73,6 @@ In my free time, I enjoy video editing with Final Cut Pro, learning about Univer
                    \;;|
                     \/
 </code></pre>
+
+## [Selected Projects](https://skhan59.github.io/projects) , [Competitions](https://skhan59.github.io/competitions)
+
