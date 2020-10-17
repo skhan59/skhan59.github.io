@@ -9,7 +9,7 @@ To show Wright in action, I used Adobe XD to create a minimum viable product of 
 
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=5pmxNIHy9xQ">
+      <a href="https://whatswright.github.io/">
      <img src="https://i.imgur.com/D9AILx8.png" 
       alt="Wright" 
       style="size:900%;">
