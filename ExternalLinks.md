@@ -21,6 +21,17 @@ Academic Essays I have written concerning technology and philosophy.
       style="size:10%;">
       </a>
     </div>
+    
+### Letterboxd
+Where I post movie reviews. There may or may not be a correlation between the quality of my reviews and the quality of the films.
+<div align="center">
+      <a href="https://letterboxd.com/saadnkhan/">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Letterboxd_logo_%282018%29.png" 
+      alt="Medium" 
+      style="size:10%;">
+      </a>
+    </div>
+
 
 ### VSCO
 Photography is a side interest of mine when I am not developing wireframes or analyzing network traffic.
