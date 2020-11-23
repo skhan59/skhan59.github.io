@@ -10,7 +10,7 @@ I used Adobe XD to develop my prototype.
 
 
 <div align="center">
-      <a href="github.com/skhan59/impromptu">
+      <a href="https://github.com/skhan59/Impromptu">
      <img src="https://i.imgur.com/izqxMwO.jpg" 
       alt="NCL Stats" 
       style="size:10%;">
