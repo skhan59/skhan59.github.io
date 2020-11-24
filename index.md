@@ -27,6 +27,8 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 
 - Inolved In: Computer Science Club, Cybersecurity Club, Pre-Law Society, Muslim Student Association, Philosophy Club
 
+#### [Coursework](https://www.skhan59.github.io/coursework)
+
 ### Achievements: 
 
 - Dean's List: 2018-Present 
