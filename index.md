@@ -27,7 +27,7 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 
 - Inolved In: Computer Science Club, Cybersecurity Club, Pre-Law Society, Muslim Student Association, Philosophy Club
 
-#### [Coursework](https://www.skhan59.github.io/Coursework)
+#### [Coursework](https://skhan59.github.io/Coursework)
 
 ### Achievements: 
 
