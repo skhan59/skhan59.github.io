@@ -17,8 +17,8 @@
 
 - Comp 264: Computer Systems (C Language)
 
--Comp 377: IT Project Management
+- Comp 377: IT Project Management
 
--Comp 163: Discrete Mathematics
+- Comp 163: Discrete Mathematics
 
--Phil 274: Logic 
+- Phil 274: Logic 
