@@ -25,17 +25,17 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 
 - B.S in CS: Cybersecurity, Minor in Philosophy
 
-- Inolved In: Computer Science Club, Cybersecurity Club, Pre-Law Society, Muslim Student Association, Philosophy Club
+- Involved In: Computer Science Club, Cybersecurity Club, Pre-Law Society, Muslim Student Association, Philosophy Club
 
 #### [Coursework](https://skhan59.github.io/Coursework)
 
 ### Achievements: 
 
 - Dean's List: 2018-Present 
-  *Awarded to students who recieve a 3.50 GPA or above each semester
+  *Awarded to students who receive a 3.50 GPA or above each semester
 
 - Dean's Merit Scholarship Recipient
-  *Awarded based off of consistent academic performance
+  *Awarded based on consistent academic performance
 
 - National Cybersecurity League: Top 3% of all teams Nationally (1st Place in Loyola's internal competition)
   Competed both individually and in a team in the following modules of cybersecurity: Website Hacking, Code Exploits (Python,
@@ -46,8 +46,7 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
   
 ### Hobbies and Interests: 
 
-In my free time, I enjoy video editing with Final Cut Pro, learning about Universal Basic Income, photography, and overanalyzing MCU and DCEU movies. For the latter, I hope to start a podcast on the subject by Winter 2021!
-
+In my free time, I enjoy video editing with Final Cut Pro, practicing iPhone photography, learning to cook Pakistani food, and overanalyzing MCU and DCEU movies. For the latter, I am currently working on starting up a podcast regarding the subject!
 
 <pre><code>
                       
