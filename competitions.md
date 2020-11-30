@@ -25,6 +25,8 @@ The NCL challenges are based on the CompTIA Security+™ and EC-Council Certifie
 and include the following content: Open Source Intelligence, Scanning, Enumeration and Exploitation, Password Cracking, 
 Traffic Analysis, Log Analysis, Wireless Security, Cryptography, and Web Application Security.
 
+My team consisting of four people and I were successfully able to secure a spot in the top 3% of all teams in the country, and 1st place amongst all teams competing within Loyola University Chicago.
+
 
 <div align="center">
       <a href="https://cyberskyline.com/report/60RWA18T17A1">
@@ -37,7 +39,7 @@ Traffic Analysis, Log Analysis, Wireless Security, Cryptography, and Web Applica
     
 ### TGHack2020: Top 27% of All Teams Worldwide
 
-TGHack2020 was a Cybersecurity competition sponsored by Google. My team and I competed and successfully completed modules including: Password Cracking, Cryptography, Penetration Testing, Web Application Security, and Reverse Engineering
+TGHack2020 was a Cybersecurity competition sponsored by Google. My team of four and I competed and successfully completed modules including: Password Cracking, Cryptography, Penetration Testing, Web Application Security, and Reverse Engineering
 
 
 <div align="center">
@@ -49,6 +51,7 @@ TGHack2020 was a Cybersecurity competition sponsored by Google. My team and I co
     </div>
     
 ### Hack the Box: Penetration Testing and Capture the Flags
+
 As of March 2020, I’ve been actively competing to obtain a spot on Hack the Box’s Penetration Testing and Capture the Flag leaderboards. The competition is only accessible for competitors who are successfully able to hack their way through the registration page. By far the most difficult competition I’ve competed in, so far I have successfully been able to complete challenges in Reverse Engineering, Cryptography, Steganography, Computer Forensics, and Open Source Intelligence. I’ve also obtained root-level access to the virtual computer known as Traceback, where I had to use Kali Linux and cybersecurity tools to get my way through.
 
 
