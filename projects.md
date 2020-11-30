@@ -4,10 +4,11 @@
 #### NOTE: For research papers I have written, kindly refer to this [link](https://saadnkhan.medium.com/)
 
 ### Wright
-Wright, the right way to learn how to write, is an ed-tech startup concept I pitched to Y Combinator backed entrepreneurs during my time as a Technology Fellow at Nu School. Wright is a concept in which users are provided with weekly topics based on current events. Users can then write in favor or against the current events, while others can thumbs up or thumbs down writing pieces based on how well they back up the arguments. Wright serves to both improve people's writing skills through community peer reviews, as well as help people see other perspectives in a controlled, calm enviroment.
+Wright, the right way to learn how to write, is an ed-tech startup concept I pitched to Y Combinator-backed entrepreneurs during my time as a Technology Fellow at Nu School. Wright is a concept in which users are provided with weekly topics based on current events. Users can then write in favor or against the current events, while others can thumbs up or thumbs down writing pieces based on how well they back up the arguments. Wright serves to both improve people's writing skills through community peer reviews, as well as help people see other perspectives in a controlled, calm environment.
 
 To show Wright in action, I used Adobe XD to create a minimum viable product of how the website would look. I also used Google forms and conducted market research amongst college students (our target market) on school subreddits to see how different majors feel about potentially using a platform that can help them become better writers.
 
+For this project, I worked alongside Elizabeth Chen from The City College of New York, and Dirghayu Kaushik from the Indian Institute of Technology
 
 <div align="center">
       <a href="https://whatswright.github.io/">
@@ -19,10 +20,11 @@ To show Wright in action, I used Adobe XD to create a minimum viable product of 
 
 
 ### Project Management: Toyota Electric Vehicle Prototype Case Study
-During my COMP 377: IT Project Management course, my group and I managed a semester long project management cast study. 
+During my COMP 377: IT Project Management course, my team and I managed a semester-long project management cast study. 
 Our group studied the costs, risks, and responsibilities that a company like Toyota would need to consider when it comes to building an electric car prototype. 
 We used a variety of project management methodologies such as scrum, risk analysis, agile management, and more. Microsoft Project was used to divide tasks,
 analyze the simulated budget, and track our progress relative to our deadlines.
+
 
 
 
@@ -56,7 +58,7 @@ PHPMyAdmin - Access hidden databases within the virtual machine
 <div align="center">
       <a href="https://www.hackthebox.eu/login">
      <img src="https://josh.kerr.dev/content/images/2020/06/Screen-Shot-2020-06-20-at-3.08.12-PM.png" 
-      alt="DNS over HTTPS Findings" 
+      alt="Pen Testing" 
       style="width:900%;">
       </a>
     </div>
@@ -73,20 +75,9 @@ This project was done during my COMP 388: Advanced Topics in Cybersecurity class
       </a>
     </div>
     
-### COVID: 19 Questions
-An Android App I coded using Android Studio + Java. It's a true or false quiz implementing Object-Oriented Programming, with a Graphical User Interface (GUI.) The app asks the user 19 questions about the Covid-19 Pandemic, and tests the users ability to differentiate between the truth and widespread fake news.
-
-<div align="center">
-      <a href="https://github.com/skhan59/Covid19QuizzApp">
-     <img src="https://raw.githubusercontent.com/skhan59/Covid19QuizzApp/master/screenshot.png" 
-      alt="COVID: 19 questions" 
-      style="width:900%;">
-      </a>
-    </div>
     
 ### Android Stopwatch
-Worked in a team of five students to implement a timer as an Android application with event-driven/asynchronous program execution and user-triggered input events. Graphed a state machine model to plan out how the different classes would work work off of one another.
-
+Worked in a team of five students to implement a timer as an Android application with event-driven/asynchronous program execution and user-triggered input events. Graphed a state machine model to plan out how the different classes would work off of one another.
 <div align="center">
       <a href="https://github.com/skhan59/AndroidTimer">
      <img src="https://i.ytimg.com/vi/3P8F7Pk2dtY/maxresdefault.jpg" 
@@ -102,18 +93,18 @@ Wrote up an official Forensics Report to summarize the actions taken to discover
 <div align="center">
       <a href="https://drive.google.com/file/d/1EF7cv2gl_D_bwnIZi7LHzALkWJvkqMAw/view">
      <img src="https://files.passware.com/images/pictures/PNL/pnl-103-encase.png" 
-      alt="DNS over HTTPS Findings" 
+      alt="Computer Forensics" 
       style="width:900%;">
       </a>
     </div>
    
 ### Battleship: A Java Game Made W/Object-Oriented Programming
-This is a one player game I made using Java. The program asks the user what level of difficulty the user wants to choose for the game (e.g easy, medium, or hard.) The size of the board, as well as the number of ships placed on the board increases respective to the difficulty level the user chooses. The number of lives however, decreases with the level of difficulty. This program was made early on in my experience with Java, yet it allowed me to creatively think about how different classes can work off of one another.
+This is a one-player game I made using Java. The program asks the user what level of difficulty the user wants to choose for the game (e.g easy, medium, or hard.) The size of the board, as well as the number of ships placed on the board increases respective to the difficulty level the user chooses. The number of lives, however, decreases with the level of difficulty. This program was made early on in my experience with Java, yet it allowed me to creatively think about how different classes can work off of one another.
 
 <div align="center">
       <a href="https://github.com/skhan59/Battleship">
      <img src="https://raw.githubusercontent.com/skhan59/Battleship/master/Screen%20Shot%202020-08-27%20at%207.02.26%20PM.png" 
-      alt="DNS over HTTPS Findings" 
+      alt="Battleship" 
       style="width:900%;">
       </a>
     </div>
@@ -125,7 +116,7 @@ For my final project in COMP 348: Network Security, I developed a proposal for i
 <div align="center">
       <a href="https://drive.google.com/drive/folders/1-4eYF0rwMJVEDMDDiE1CcSeo0vGkXqNW">
      <img src="https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/chart/examples/networksecuritydiagram.png" 
-      alt="DNS over HTTPS Findings" 
+      alt="Net Sec Architecture" 
       style="width:900%;">
       </a>
     </div>
