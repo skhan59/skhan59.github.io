@@ -23,7 +23,7 @@ Java Programming ■ Network Security Architecture ■ Adobe XD ■ Agile Manage
 
 - Loyola University Chicago (Department of Computer Science)
 
-- B.S in CS: Cybersecurity, Minor in Philosophy
+- Bachelor of Science in CS: Cybersecurity, Minor in Philosophy
 
 - Involved In: Computer Science Club, Cybersecurity Club, Pre-Law Society, Muslim Student Association, Philosophy Club
 
@@ -74,5 +74,7 @@ In my free time, I enjoy video editing with Final Cut Pro, practicing iPhone pho
                    \;;|
                     \/
 </code></pre>
+###### [Spider-Man](https://www.asciiart.eu/comics/spiderman)
+
 
 ## [Projects](https://skhan59.github.io/projects) , [Competitions](https://skhan59.github.io/competitions) , [External Links](https://skhan59.github.io/ExternalLinks) 
