@@ -2,7 +2,7 @@
 
 # Hello, World!
 
-I am a highly motivated student on the Cybersecurity track at Loyola University Chicago's Department of Computer Science. Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Internet Privacy, Human-Computer Interaction, Health-Technology, Antitrust, and Start-Ups.
+My name is Saad Khan and I am a highly motivated student on the Cybersecurity track at Loyola University Chicago's Department of Computer Science. Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Internet Privacy, Human-Computer Interaction, Health-Technology, Antitrust, and Start-Ups.
 
 Currently, I am conducting research with Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the potential fallbacks of 'DNS over HTTPS.' I am also a UX Design Intern at a public health startup named Broadstreet. At Broadstreet, I am using Adobe Xd to develop mockups a new website to showcase COVID-19 data in an easy-to-read way.
 
