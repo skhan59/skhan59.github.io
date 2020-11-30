@@ -1,6 +1,6 @@
 ## Selected Projects
 
-#### Below is a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, UX Design, or Project Management. Feel free to click on thumbnails to see the full project.
+#### Below is a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, UX Design, or Project Management. Feel free to click on the thumbnails to see the full project.
 #### NOTE: For research papers I have written, kindly refer to this [link](https://saadnkhan.medium.com/)
 
 ### Wright
