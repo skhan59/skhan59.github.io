@@ -2,7 +2,7 @@
 
 ### DesignMerced 2020
 
-#### The following is a list of competitions I have competed in. The topics primarily cover cybersecurity, programming, and UX development. To learn more about the competitions or to see my deliverables, please click on the thumbnail.
+#### The following is a list of competitions I have competed in. The topics primarily cover cybersecurity, programming, and UX development. To learn more about the competitions or to see my deliverables, please click on the thumbnails.
 
 DesignMerced 2020 was an online UX Designathon sponsored by the Major League Hacking association. The prompt for the competition was to come up with an app idea that fosters online connections during the age of COVID-19.
 
