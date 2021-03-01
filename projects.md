@@ -3,17 +3,14 @@
 #### Below is a sample of completed projects I've worked on throughout my time in Loyola. Each project covers a topic such as Object-Oriented Programming, Cybersecurity, UX Design, or Project Management. Feel free to click on the thumbnails to see the full project.
 #### NOTE: For research papers I have written, kindly refer to this [link](https://saadnkhan.medium.com/)
 
-### Wright
-Wright, the right way to learn how to write, is an ed-tech startup concept I pitched to Y Combinator-backed entrepreneurs during my time as a Technology Fellow at Nu School. Wright is a concept in which users are provided with weekly topics based on current events. Users can then write in favor or against the current events, while others can thumbs up or thumbs down writing pieces based on how well they back up the arguments. Wright serves to both improve people's writing skills through community peer reviews, as well as help people see other perspectives in a controlled, calm environment.
+### PWC's Cybersecurity Virtual Case Study
+This virtual case study was provided by PWC and Forage. The case study involved providing a hypotethical corporation guidance on various cybersecurity best practices. This study allowed me to apply what I have learned in college to create a presentation and written deliverables that tackled due dilligence, risk assessment, establishing IT security baselines, network segmentations, network architecture, and more.
 
-To show Wright in action, I used Adobe XD to create a minimum viable product of how the website would look. I also used Google forms and conducted market research amongst college students (our target market) on school subreddits to see how different majors feel about potentially using a platform that can help them become better writers.
-
-For this project, I worked alongside Elizabeth Chen from The City College of New York, and Dirghayu Kaushik from the Indian Institute of Technology
 
 <div align="center">
-      <a href="https://whatswright.github.io/">
-     <img src="https://i.imgur.com/D9AILx8.png" 
-      alt="Wright" 
+      <a href="https://www.linkedin.com/in/saadnaeemkhan/">
+     <img src="https://i.imgur.com/RbGOzeq.png" 
+      alt="PWC" 
       style="size:900%;">
       </a>
     </div>
@@ -36,16 +33,6 @@ analyze the simulated budget, and track our progress relative to our deadlines.
       </a>
     </div>
     
-### Let's Shoot
-Let's Shoot is a social media concept I've been developing. The premise is a networking app geared towards getting potential clients to meet with local photographers/filmmakers. I've been using Adobe XD and Photoshop to create mockups of how I wish for the app to look like. I'm also using Pycharm and Github to create a portfolio to showcase progress.
-
-<div align="center">
-      <a href="https://github.com/skhan59/Lets-Shoot">
-     <img src="https://i.imgur.com/qIT7izC.png" 
-      alt="Let's Shoot" 
-      style="size:900%;">
-      </a>
-    </div>
 
 ### TRACEBACK:Hacking/Penetration Simulation
 Successfully hacked into the virtual machine provided by the cybersecurity company, Hack the Box. I used resources such as Kali Linux and Open-Source Intelligence to gain root-level access to the machine.
