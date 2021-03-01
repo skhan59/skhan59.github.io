@@ -4,7 +4,7 @@
 #### NOTE: For research papers I have written, kindly refer to this [link](https://saadnkhan.medium.com/)
 
 ### PWC's Cybersecurity Virtual Case Study
-This virtual case study was provided by PWC and Forage. The case study involved providing a hypotethical corporation guidance on various cybersecurity best practices. This study allowed me to apply what I have learned in college to create a presentation and written deliverables that tackled due dilligence, risk assessment, establishing IT security baselines, network segmentations, network architecture, and more.
+This virtual case study was provided by PWC and Forage. The case study involved providing a hypothetical corporation guidance on various cybersecurity best practices. This study allowed me to apply what I have learned in college to create a presentation and written deliverables that tackled due diligence, risk assessment, establishing IT security baselines, network segmentation, network architecture, and more.
 
 
 <div align="center">
