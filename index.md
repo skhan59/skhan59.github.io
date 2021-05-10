@@ -6,7 +6,7 @@ My name is Saad Khan, and I'm a Digital Product Analyst with Alight Solutions. T
 
 I received my bachelor's degree from Loyola University Chicago, where I was on the Cybersecurity track for their Computer Science program. At Loyola, I was a consistent member of the Dean's List.
 
-I am firm believer that technology is the greatest asset to for creating social change. With my education and work experiences, I hope to become a leader in the tech-world in industries such as:
+I am firm believer that technology is the greatest asset for creating social change. With my education and work experiences, I hope to become a leader in the tech-world in industries such as:
 
 -Human-Computer Interaction
 
