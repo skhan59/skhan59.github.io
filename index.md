@@ -6,13 +6,19 @@ My name is Saad Khan, and I'm a Digital Product Analyst with Alight Solutions. T
 
 I received my bachelor's degree from Loyola University Chicago, where I was on the Cybersecurity track for their Computer Science program. At Loyola, I was a consistent member of the Dean's List.
 
-The most important aspect of working in the tech-industry for me is adhering to the comncept of 'technology for social for social good.' I hope to become a leader in the tech-industry by tackling industries such as:
+I am firm believer that technology is the greatest asset to for creating social change. With my education and work experiences, I hope to become a leader in the tech-world in industries such as:
 
 -Human-Computer Interaction
+
 -User/Cyber Security
+
 -Health Technology
+
 -Fair Use & Copyright
+
 -Empathy in User Experience
+
+to help communities feel safe, welcome, and secure in the digital landscape.
 
 Prior to joining Alight, I was working with Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. Under his guidance, I conducted research internet anonymity, and the potential fallbacks of 'DNS over HTTPS.' I was also a UX Design Intern at a public health startup named Broadstreet. At Broadstreet, I used Adobe Xd to develop mockups a new website to showcase COVID-19 data in an easy-to-read way.
 
