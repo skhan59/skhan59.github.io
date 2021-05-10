@@ -2,9 +2,19 @@
 
 # Hello, World!
 
-My name is Saad Khan and I am a highly motivated student on the Cybersecurity track at Loyola University Chicago's Department of Computer Science. Through my studies and experiences, I've become passionate about using my knowledge and skillset in technology to solve social, legal, and ethical issues in industries such as Internet Privacy, Human-Computer Interaction, Health-Technology, Antitrust, and Start-Ups.
+My name is Saad Khan, and I'm a Digital Product Analyst with Alight Solutions. Throughout my professional and educational career, I've gained experience in project management, technical documentation, UX development, cybersecurity best practices, and programming.
 
-Currently, I am conducting research with Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. We are researching internet anonymity, and the potential fallbacks of 'DNS over HTTPS.' I am also a UX Design Intern at a public health startup named Broadstreet. At Broadstreet, I am using Adobe Xd to develop mockups a new website to showcase COVID-19 data in an easy-to-read way.
+I received my bachelor's degree from Loyola University Chicago, where I was on the Cybersecurity track for their Computer Science program. At Loyola, I was a consistent member of the Dean's List.
+
+The most important aspect of working in the tech-industry for me is adhering to the comncept of 'technology for social for social good.' I hope to become a leader in the tech-industry by tackling industries such as:
+
+-Human-Computer Interaction
+-User/Cyber Security
+-Health Technology
+-Fair Use & Copyright
+-Empathy in User Experience
+
+Prior to joining Alight, I was working with Dr. Chan-Tin of Loyola University Chicago's Department of Computer Science. Under his guidance, I conducted research internet anonymity, and the potential fallbacks of 'DNS over HTTPS.' I was also a UX Design Intern at a public health startup named Broadstreet. At Broadstreet, I used Adobe Xd to develop mockups a new website to showcase COVID-19 data in an easy-to-read way.
 
 I’ve also held positions as a Summer Extern at AT&T, a Technology Fellow at Nu School, and a Technology Assistant at Loyola University Chicago's School of Law. More detailed explanations of my work history can be found on my LinkedIn profile linked below.
 
